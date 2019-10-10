@@ -2,7 +2,6 @@
 To start a new project:
 
 In terminal:
-cd OneDrive/Programming
 mkdir *newProjectName*
 cd *newProjectName*
 touch app.js
